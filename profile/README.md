@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo-link">
-  <img alt="Reference Homes - Logo" src="logo-link" width="350">
+  <source media="(prefers-color-scheme: dark)" srcset="https://qr.feritaribulan.com.tr/referencehomes/logo.png">
+  <img alt="Reference Homes - Logo" src="https://qr.feritaribulan.com.tr/referencehomes/logo.png" width="350">
   </picture>
 </div>
 <h2>hakkımızda?</h2>
